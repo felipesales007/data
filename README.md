@@ -8,7 +8,7 @@ Sistema desenvolvido em Java com a função de gerar um relatório em Excel a pa
 
 ## Versão disponível
 
-[<img src="https://portal.ifpe.edu.br/campus/palmares/noticias/divulgado-resultado-do-curso-de-extensao-em-java/javalogo.png/@@images/69c46ffa-cc8a-402e-89b3-c8ac41c96431.png" width="120" height="100" />]()
+[<img src="https://portal.ifpe.edu.br/campus/palmares/noticias/divulgado-resultado-do-curso-de-extensao-em-java/javalogo.png/@@images/69c46ffa-cc8a-402e-89b3-c8ac41c96431.png" width="120" height="100" />](https://portal.ifpe.edu.br/campus/palmares/noticias/divulgado-resultado-do-curso-de-extensao-em-java/javalogo.png/@@images/69c46ffa-cc8a-402e-89b3-c8ac41c96431.png)
 
 | MENU |
 | --- | 
